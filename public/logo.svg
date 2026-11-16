@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 116" fill="none">
+  <defs>
+    <linearGradient id="steel" x1="25" y1="8" x2="88" y2="106" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F7F8"/>
+      <stop offset=".48" stop-color="#C5CDD0"/>
+      <stop offset="1" stop-color="#89959A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="81" y1="20" x2="96" y2="94" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AEB8BC"/>
+      <stop offset="1" stop-color="#566268"/>
+    </linearGradient>
+  </defs>
+  <path d="M84 15H46C33.85 15 24 24.85 24 37v2c0 12.15 9.85 22 22 22h12c12.15 0 22 9.85 22 22s-9.85 22-22 22H18" stroke="#303B40" stroke-width="22" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M84 15H46C33.85 15 24 24.85 24 37v2c0 12.15 9.85 22 22 22h12c12.15 0 22 9.85 22 22s-9.85 22-22 22H18" stroke="url(#steel)" stroke-width="16" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M84 15H46C33.85 15 24 24.85 24 37v2c0 12.15 9.85 22 22 22h12c12.15 0 22 9.85 22 22s-9.85 22-22 22H18" stroke="#F5F7F8" stroke-opacity=".8" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/>
+  <path d="M84 4v22M18 94v22" stroke="#566268" stroke-width="3"/>
+  <path d="M83 5v20M19 95v20" stroke="#F5F7F8" stroke-width="1"/>
+  <path d="M8 40h22v20H8z" fill="#39444A" stroke="#F5F7F8" stroke-width="1.5"/>
+  <path d="M12 44h14v11H12z" fill="url(#steel)" stroke="#89959A" stroke-width="1"/>
+  <path d="M15 47h8M15 50h5" stroke="#566268" stroke-width="1.2" stroke-linecap="round"/>
+  <circle cx="10.5" cy="42.5" r=".8" fill="#F5F7F8"/>
+  <circle cx="27.5" cy="57.5" r=".8" fill="#F5F7F8"/>
+  <path d="M75 8h20l-3 19H78z" fill="url(#steel)" stroke="#303B40" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M77 8c0-7 16-7 16 0" stroke="#DCE2E4" stroke-width="1.8"/>
+  <path d="M74 8h22M78 12h14" stroke="#566268" stroke-width="1.2"/>
+  <path d="M52 91c0-5.5 4-9 9-9h8c5 0 9 3.5 9 9v12H52z" fill="url(#steel)" stroke="#303B40" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M57 89v9m6-11v11m6-11v11m6-9v9" stroke="#566268" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M52 101h26" stroke="#303B40" stroke-width="2"/>
+  <text x="112" y="40" fill="#DCE2E4" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" letter-spacing="1">SARASWATHI</text>
+  <text x="112" y="68" fill="#DCE2E4" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="800" letter-spacing="1">INDUSTRIES</text>
+  <text x="113" y="96" fill="#DCE2E4" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing=".4" textLength="350" lengthAdjust="spacingAndGlyphs">QUALITY PRODUCTS • TRUSTED ENGINEERING</text>
+</svg>
